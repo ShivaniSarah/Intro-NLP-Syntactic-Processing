@@ -1,8 +1,8 @@
 # Welcome to Syntactic Processing Code Demonstrations:
 
-https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
+spacy token.pos_ :   https://universaldependencies.org/docs/u/pos/
 
-https://universaldependencies.org/docs/u/pos/
+spacy token.tag_ :   https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
 
 
 This README file is designed to navigate the **code files** and the **datasets** that have been used to demonstrate the use cases of various concepts taught in the Syntactic Processing module. 
